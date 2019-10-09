@@ -1,5 +1,5 @@
 // ベースビュー
-package jp.co.meiseid.PullDownButton;
+package jp.co.meiseid.pulldownbutton;
 
 import android.content.Context;
 import android.content.res.Resources;

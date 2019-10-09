@@ -1,5 +1,5 @@
 // ホームビュー
-package jp.co.meiseid.PullDownButton;
+package jp.co.meiseid.pulldownbutton;
 
 import android.app.Activity;
 import android.view.View;

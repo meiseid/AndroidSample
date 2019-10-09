@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Androidテスト</string>
+    <string name="app_name">PullDownButton</string>
     <string name="app_version">2019-05-21A</string>
 
     <string-array name="choice_age">

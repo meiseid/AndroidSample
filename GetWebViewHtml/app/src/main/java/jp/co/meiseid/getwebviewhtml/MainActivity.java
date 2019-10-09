@@ -1,5 +1,5 @@
 // アクティビティ
-package jp.co.meiseid.GetWebViewHtml;
+package jp.co.meiseid.getwebviewhtml;
 
 import android.app.Activity;
 import android.content.Context;
@@ -23,7 +23,7 @@ import java.net.URLEncoder;
 import java.util.HashMap;
 import java.util.Map;
 
-public class GetWebViewHtml extends Activity implements View.OnClickListener,
+public class MainActivity extends Activity implements View.OnClickListener,
         TextView.OnEditorActionListener, View.OnFocusChangeListener {
 
     public HashMap<String, Integer> N;

@@ -1,5 +1,5 @@
 // アクティビティ
-package jp.co.meiseid.PullDownButton;
+package jp.co.meiseid.pulldownbutton;
 
 import android.Manifest;
 import android.app.Activity;

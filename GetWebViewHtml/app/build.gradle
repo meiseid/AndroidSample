@@ -4,7 +4,7 @@ android {
     buildToolsVersion "29.0.2"
 
     defaultConfig {
-        applicationId "jp.co.meiseid.GetWebViewHtml"
+        applicationId "jp.co.meiseid.getwebviewhtml"
         minSdkVersion 19
         targetSdkVersion 29
     }

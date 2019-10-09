@@ -1,6 +1,6 @@
 // アプリケーション
 // グローバルに共有する変数関数を持つ = 別名 G
-package jp.co.meiseid.PullDownButton;
+package jp.co.meiseid.pulldownbutton;
 
 import android.app.Application;
 import android.content.SharedPreferences;
